@@ -1,2 +1,1 @@
-# GUI-Calculator
-Calcuulator using python
+# GUI Calculator
